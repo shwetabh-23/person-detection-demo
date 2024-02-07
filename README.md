@@ -24,3 +24,6 @@ bash ./setup_env.sh
 **run the command run_app.sh**
 bash ./run_app.sh
 
+## Demo 
+
+### Have a look at the demo on [Youtube](https://youtu.be/Ko7Rs639NR0)
